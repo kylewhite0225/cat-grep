@@ -1,0 +1,13 @@
+Five incredible heroes
+This is an unprecendented time
+Time flies so fast
+Bellevue College is located in the state of Washington.
+I live in the state of Washington
+People first learned about COVID in 2019
+People first learned about covid in 2019
+printf("hello world")
+print("Hello world")
+Many COVID19 vaccines were approved for use
+
+
+
